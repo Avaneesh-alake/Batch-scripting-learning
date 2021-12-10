@@ -1,4 +1,0 @@
-dir
-pause
-ver
-pause
